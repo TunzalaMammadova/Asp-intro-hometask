@@ -1,0 +1,13 @@
+﻿@using Asp_intro_hometask.Models;
+@model List<Product>
+
+<ul>
+    @foreach (var item in Model)
+     {
+        <li>@item.Name</li>
+        <li>@item.Price</li>
+        <li>@item.Count</li>
+        <li>@item.Description</li>
+     }
+</ul>
+

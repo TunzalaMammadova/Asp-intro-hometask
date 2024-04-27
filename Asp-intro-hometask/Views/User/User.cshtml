@@ -1,0 +1,12 @@
+﻿@using Asp_intro_hometask.Models;
+@model List<User>
+
+<ul>
+    @foreach (var item in Model)
+     {
+        <li>@item.Fullname</li>
+        <li>@item.Address</li>
+        <li>@item.Email</li>
+        <li>@item.Age</li>
+     }
+</ul>

@@ -1,0 +1,9 @@
+﻿@using Asp_intro_hometask.Models
+@model List<Book>
+
+<ul>
+    @foreach (var item in Model)
+     {
+       <li>@item.Name</li>
+     }
+</ul>

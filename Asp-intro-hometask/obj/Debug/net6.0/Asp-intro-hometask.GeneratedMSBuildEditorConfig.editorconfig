@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Asp_intro_hometask
+build_property.RootNamespace = Asp_intro_hometask
+build_property.ProjectDir = /Users/tunzale/Desktop/Asp-intro-hometask/Asp-intro-hometask/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/tunzale/Desktop/Asp-intro-hometask/Asp-intro-hometask
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/tunzale/Desktop/Asp-intro-hometask/Asp-intro-hometask/Views/Book/Book.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9Cb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tunzale/Desktop/Asp-intro-hometask/Asp-intro-hometask/Views/Employee/Employee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tunzale/Desktop/Asp-intro-hometask/Asp-intro-hometask/Views/Product/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9Qcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tunzale/Desktop/Asp-intro-hometask/Asp-intro-hometask/Views/User/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tunzale/Desktop/Asp-intro-hometask/Asp-intro-hometask/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
